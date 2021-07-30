@@ -1,7 +1,10 @@
 # pretty-fractcal
 ![fractl-colorful.jpeg](fractal-colorful.jpg)
+One time as a kid while trying to code a Koch Curve in scheme I thought i had stumbled across a cool new fractal.
 
-That one time when I thought I had discovered a new fractal circa 2006. 
+![pretty_code.jpeg](pretty_code.jpg)
+Months later someone recognized it and referred me to the 'Jurassic Park' fractal.
+I still like to think of it as the 'cache curve'
 
-Turns out it was more famously known as the 'Jurassic Park' fractal. I just hadn't read the paperback and had no idea how to google a thing I had just made. 
+
 

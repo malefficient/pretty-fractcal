@@ -10,4 +10,6 @@ I still like to think of it as the 'cache curve'
 
 ![fractl-colorful.png](fractal-colorful.png)
 
+[pretty_fractal.rkt](pretty_fractal.rkt) will run unmodified in [Racket](https://download.racket-lang.org/), the successor to DrScheme originally used
+
 

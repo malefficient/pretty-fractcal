@@ -1,5 +1,5 @@
 # pretty-fractcal
-![fractl-colorful.jpeg](fractal-colorful.jpg)
+![fractl-colorful.png](fractal-colorful.png)
 One time as a kid while trying to code a Koch Curve in scheme I thought i had stumbled across a cool new fractal.
 
 ![pretty_code.jpeg](pretty_code.jpg)
